@@ -1,0 +1,6 @@
+IDE: 
+    1.IDLE -Python 3.12
+    2.VS code
+    3.Jupyter Notebook!
+PyGame & Panda3D (optional)
+Turtle module : 'pip install turtle'
